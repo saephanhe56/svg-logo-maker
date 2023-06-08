@@ -20,3 +20,9 @@ Unlicensed
 
 ## Video Link 
 
+https://drive.google.com/file/d/1shqf53PR0UJu3dyE5FiTE0FWqaoV7mX1/view
+
+
+## Mockup Example Product 
+
+![screenshot](assets/generated-logo.png)

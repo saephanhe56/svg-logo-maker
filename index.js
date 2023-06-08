@@ -64,6 +64,7 @@ function createSVG(logo_name, text_color, logo_shape) {
 
 function writeToFile(fileName, data) {
     fs.writeFileSync(fileName, data)
+    console.log("Generated logo.svg");
 };
 
 //initiate the init function here:
